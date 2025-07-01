@@ -17,11 +17,11 @@ from flask_socketio import SocketIO, join_room, leave_room, emit
 app = Flask(__name__)
 # Initialize Socket.IO with your Flask app
 socketio = SocketIO(app, cors_allowed_origins="*")
-# Add at the top of your Flask app
+
 CORS(app, resources={r"/api/*": {"origins": ["http://localhost:5173","http://192.168.165.100:5173"]}}, supports_credentials=True)
 
 # Setup MongoDB
-client = MongoClient('mongodb://localhost:27017/')
+client = client = MongoClient(os.environ.get('MONGODB_URI'))
 db = client['project_manager']
 threat_db = client['your_project_db'] 
 users_collection = db['users']
@@ -29,7 +29,7 @@ projects_collection = db['projects']
 merge_requests_collection = db['merge_requests']
 
 # JWT Config
-app.config['JWT_SECRET_KEY'] = 'your-secret-key'  # Change this in production!
+app.config['JWT_SECRET_KEY'] = os.environ.get('JWT_SECRET_KEY')
 app.config['JWT_ACCESS_TOKEN_EXPIRES'] = datetime.timedelta(days=1)
 jwt = JWTManager(app)
 
