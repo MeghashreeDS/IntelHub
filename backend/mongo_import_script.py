@@ -14,7 +14,7 @@ def import_threat_data(import_dir, db_connection_string=None):
     if db_connection_string:
         client = pymongo.MongoClient(db_connection_string)
     else:
-        mongo_uri = os.getenv("MONGODB_URI", "mongodb://localhost:27017")
+        mongo_uri = os.getenv("MONGODB_URI")
         client = pymongo.MongoClient(mongo_uri)
     
     db = client.get_database("your_project_db")  # Change to your project's database name
