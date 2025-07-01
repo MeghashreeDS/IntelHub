@@ -13,7 +13,7 @@ load_dotenv()
 # MongoDB connection
 def connect_to_mongodb():
     """Connect to MongoDB and return database connection"""
-    mongo_uri = os.getenv("MONGODB_URI", "mongodb://localhost:27017")
+    mongo_uri = os.getenv("MONGODB_URI")
     client = pymongo.MongoClient(mongo_uri)
     db = client.get_database("threat_intelligence")
     return db
