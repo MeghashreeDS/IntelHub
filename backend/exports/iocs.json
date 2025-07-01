@@ -1,0 +1,1832 @@
+[
+  {
+    "type": "domain",
+    "indicator": "ancient-thing.it",
+    "created": "2025-03-19T21:59:31",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:00.237000",
+    "pulse_id": "67db3e42358011c1a3975302",
+    "pulse_name": "Virtue or Vice? A First Look at Paragon's Proliferating Spyware Operations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "awake-wood.io",
+    "created": "2025-03-19T21:59:31",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:00.350000",
+    "pulse_id": "67db3e42358011c1a3975302",
+    "pulse_name": "Virtue or Vice? A First Look at Paragon's Proliferating Spyware Operations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "constraints.is",
+    "type": "domain",
+    "created": "2025-03-19T21:59:31",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:00.446000",
+    "pulse_id": "67db3e42358011c1a3975302",
+    "pulse_name": "Virtue or Vice? A First Look at Paragon's Proliferating Spyware Operations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "external-astra.com",
+    "created": "2025-03-19T21:59:31",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:00.576000",
+    "pulse_id": "67db3e42358011c1a3975302",
+    "pulse_name": "Virtue or Vice? A First Look at Paragon's Proliferating Spyware Operations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "external-cag.com",
+    "type": "domain",
+    "created": "2025-03-19T21:59:31",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:00.676000",
+    "pulse_id": "67db3e42358011c1a3975302",
+    "pulse_name": "Virtue or Vice? A First Look at Paragon's Proliferating Spyware Operations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "external-cap.com",
+    "created": "2025-03-19T21:59:31",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:00.788000",
+    "pulse_id": "67db3e42358011c1a3975302",
+    "pulse_name": "Virtue or Vice? A First Look at Paragon's Proliferating Spyware Operations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "external-drt.com",
+    "type": "domain",
+    "created": "2025-03-19T21:59:31",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:00.908000",
+    "pulse_id": "67db3e42358011c1a3975302",
+    "pulse_name": "Virtue or Vice? A First Look at Paragon's Proliferating Spyware Operations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "internal-abba.com",
+    "type": "domain",
+    "created": "2025-03-19T21:59:31",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:01.028000",
+    "pulse_id": "67db3e42358011c1a3975302",
+    "pulse_name": "Virtue or Vice? A First Look at Paragon's Proliferating Spyware Operations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "modern-money.org",
+    "type": "domain",
+    "created": "2025-03-19T21:59:31",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:01.148000",
+    "pulse_id": "67db3e42358011c1a3975302",
+    "pulse_name": "Virtue or Vice? A First Look at Paragon's Proliferating Spyware Operations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "forti.external-muki.com",
+    "type": "hostname",
+    "created": "2025-03-19T21:59:31",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:01.257000",
+    "pulse_id": "67db3e42358011c1a3975302",
+    "pulse_name": "Virtue or Vice? A First Look at Paragon's Proliferating Spyware Operations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "forti.external-shotgun3.com",
+    "type": "hostname",
+    "created": "2025-03-19T21:59:31",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:01.369000",
+    "pulse_id": "67db3e42358011c1a3975302",
+    "pulse_name": "Virtue or Vice? A First Look at Paragon's Proliferating Spyware Operations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "hostname",
+    "indicator": "forti.external-sht-prd-4.com",
+    "created": "2025-03-19T21:59:31",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:01.489000",
+    "pulse_id": "67db3e42358011c1a3975302",
+    "pulse_name": "Virtue or Vice? A First Look at Paragon's Proliferating Spyware Operations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "forti.external-sht.com",
+    "type": "hostname",
+    "created": "2025-03-19T21:59:31",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:01.629000",
+    "pulse_id": "67db3e42358011c1a3975302",
+    "pulse_name": "Virtue or Vice? A First Look at Paragon's Proliferating Spyware Operations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "forti.external-staging-02.com",
+    "type": "hostname",
+    "created": "2025-03-19T21:59:31",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:01.738000",
+    "pulse_id": "67db3e42358011c1a3975302",
+    "pulse_name": "Virtue or Vice? A First Look at Paragon's Proliferating Spyware Operations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "hostname",
+    "indicator": "forti.internal-stg.com",
+    "created": "2025-03-19T21:59:31",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:01.861000",
+    "pulse_id": "67db3e42358011c1a3975302",
+    "pulse_name": "Virtue or Vice? A First Look at Paragon's Proliferating Spyware Operations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "hostname",
+    "indicator": "forti.paraccess.com",
+    "created": "2025-03-19T21:59:31",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:01.968000",
+    "pulse_id": "67db3e42358011c1a3975302",
+    "pulse_name": "Virtue or Vice? A First Look at Paragon's Proliferating Spyware Operations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-MD5",
+    "indicator": "380f49a798e7d7ccedd12fca4f98f0e3",
+    "created": "2025-04-18T16:07:52",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:02.089000",
+    "pulse_id": "680278d75b1a8862b3d4d67d",
+    "pulse_name": "SuperCard X: exposing a Chinese-speaker MaaS for NFC Relay fraud operation",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA1",
+    "indicator": "9d7ee835fe0504f2c6255e1f2176aa598db4ca78",
+    "created": "2025-04-18T16:07:52",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:02.197000",
+    "pulse_id": "680278d75b1a8862b3d4d67d",
+    "pulse_name": "SuperCard X: exposing a Chinese-speaker MaaS for NFC Relay fraud operation",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "2c6b914f9e27482152f704d3baea6c8030da859c9f5807be4e615680f93563a0",
+    "type": "FileHash-SHA256",
+    "created": "2025-04-18T16:07:52",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:02.322000",
+    "pulse_id": "680278d75b1a8862b3d4d67d",
+    "pulse_name": "SuperCard X: exposing a Chinese-speaker MaaS for NFC Relay fraud operation",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "3f39044c146a9068d1a125e1fe7ffc3f2e029593b75610ef24611aadc0dec2de",
+    "created": "2025-04-18T16:07:52",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:02.436000",
+    "pulse_id": "680278d75b1a8862b3d4d67d",
+    "pulse_name": "SuperCard X: exposing a Chinese-speaker MaaS for NFC Relay fraud operation",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "3fb91010b9b7bfc84cd0c1421df0c8c3017b5ecf26f2e7dadfe611f2a834330c",
+    "created": "2025-04-18T16:07:52",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:02.547000",
+    "pulse_id": "680278d75b1a8862b3d4d67d",
+    "pulse_name": "SuperCard X: exposing a Chinese-speaker MaaS for NFC Relay fraud operation",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "api.kingcardnfc.com",
+    "type": "hostname",
+    "created": "2025-04-18T16:07:52",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:02.658000",
+    "pulse_id": "680278d75b1a8862b3d4d67d",
+    "pulse_name": "SuperCard X: exposing a Chinese-speaker MaaS for NFC Relay fraud operation",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "api.kingnfc.com",
+    "type": "hostname",
+    "created": "2025-04-18T16:07:52",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:02.769000",
+    "pulse_id": "680278d75b1a8862b3d4d67d",
+    "pulse_name": "SuperCard X: exposing a Chinese-speaker MaaS for NFC Relay fraud operation",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "api.payforce-x.com",
+    "type": "hostname",
+    "created": "2025-04-18T16:07:52",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:02.887000",
+    "pulse_id": "680278d75b1a8862b3d4d67d",
+    "pulse_name": "SuperCard X: exposing a Chinese-speaker MaaS for NFC Relay fraud operation",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "01b521c78f5bbdaba0cc221bc893e2b8",
+    "type": "FileHash-MD5",
+    "created": "2025-04-17T23:49:13",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:02.989000",
+    "pulse_id": "68019378dcb3452cf8aa8a63",
+    "pulse_name": "Roundup: Care what you share",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-MD5",
+    "indicator": "2915b3f8b703eb744fc54c81f4a9c67f",
+    "created": "2025-04-17T23:49:13",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:03.098000",
+    "pulse_id": "68019378dcb3452cf8aa8a63",
+    "pulse_name": "Roundup: Care what you share",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "42c016ce22ab7360fb7bc7def3a17b04",
+    "type": "FileHash-MD5",
+    "created": "2025-04-17T23:49:13",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:03.204000",
+    "pulse_id": "68019378dcb3452cf8aa8a63",
+    "pulse_name": "Roundup: Care what you share",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-MD5",
+    "indicator": "7bdbd180c081fa63ca94f9c22c457376",
+    "created": "2025-04-17T23:49:13",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:03.306000",
+    "pulse_id": "68019378dcb3452cf8aa8a63",
+    "pulse_name": "Roundup: Care what you share",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA1",
+    "indicator": "bcfac98117d9a52a3196a7bd041b49d5ff0cfb8c",
+    "created": "2025-04-17T23:49:13",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:03.425000",
+    "pulse_id": "68019378dcb3452cf8aa8a63",
+    "pulse_name": "Roundup: Care what you share",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA1",
+    "indicator": "e10361a11f8a7f232ac3cb2125c1875a0a69a3e4",
+    "created": "2025-04-17T23:49:13",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:03.536000",
+    "pulse_id": "68019378dcb3452cf8aa8a63",
+    "pulse_name": "Roundup: Care what you share",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "2462569cf24a5a1e313390fa3c52ed05c7f36ef759c4c8f5194348deca022277",
+    "created": "2025-04-17T23:49:13",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:03.668000",
+    "pulse_id": "68019378dcb3452cf8aa8a63",
+    "pulse_name": "Roundup: Care what you share",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "2e964c017df8b7d56600a5d68018f9f810a1c7dd3da800b5b5dfe85e9ce6b385",
+    "type": "FileHash-SHA256",
+    "created": "2025-04-17T23:49:13",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:03.783000",
+    "pulse_id": "68019378dcb3452cf8aa8a63",
+    "pulse_name": "Roundup: Care what you share",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "9f1f11a708d393e0a4109ae189bc64f1f3e312653dcf317a2bd406f18ffcc507",
+    "type": "FileHash-SHA256",
+    "created": "2025-04-17T23:49:13",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:03.889000",
+    "pulse_id": "68019378dcb3452cf8aa8a63",
+    "pulse_name": "Roundup: Care what you share",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "a31f222fc283227f5e7988d1ad9c0aecd66d58bb7b4d8518ae23e110308dbf91",
+    "created": "2025-04-17T23:49:13",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:03.996000",
+    "pulse_id": "68019378dcb3452cf8aa8a63",
+    "pulse_name": "Roundup: Care what you share",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "CVE",
+    "indicator": "CVE-2024-23108",
+    "created": "2025-04-17T21:19:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:04.107000",
+    "pulse_id": "6801707ed48a87a19adaf031",
+    "pulse_name": "KeyPlug-Linked Server Exposes Fortinet Exploits & Webshell Activity Targeting a Major Japanese Company",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "CVE",
+    "indicator": "CVE-2024-23109",
+    "created": "2025-04-17T21:19:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:04.227000",
+    "pulse_id": "6801707ed48a87a19adaf031",
+    "pulse_name": "KeyPlug-Linked Server Exposes Fortinet Exploits & Webshell Activity Targeting a Major Japanese Company",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "71842588ace7442bee095dab2782f253",
+    "type": "FileHash-MD5",
+    "created": "2025-04-17T21:19:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:04.349000",
+    "pulse_id": "6801707ed48a87a19adaf031",
+    "pulse_name": "KeyPlug-Linked Server Exposes Fortinet Exploits & Webshell Activity Targeting a Major Japanese Company",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "90a7fa13f9fad5626d166ef3c0e14c0d",
+    "type": "FileHash-MD5",
+    "created": "2025-04-17T21:19:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:04.450000",
+    "pulse_id": "6801707ed48a87a19adaf031",
+    "pulse_name": "KeyPlug-Linked Server Exposes Fortinet Exploits & Webshell Activity Targeting a Major Japanese Company",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA1",
+    "indicator": "1567b74dfcdf7c4c2454f2b84ecee915d9bb3f11",
+    "created": "2025-04-17T21:19:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:04.548000",
+    "pulse_id": "6801707ed48a87a19adaf031",
+    "pulse_name": "KeyPlug-Linked Server Exposes Fortinet Exploits & Webshell Activity Targeting a Major Japanese Company",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "6b325f1cd5626d15c10b45793ffe88edf4ca07a9",
+    "type": "FileHash-SHA1",
+    "created": "2025-04-17T21:19:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:04.666000",
+    "pulse_id": "6801707ed48a87a19adaf031",
+    "pulse_name": "KeyPlug-Linked Server Exposes Fortinet Exploits & Webshell Activity Targeting a Major Japanese Company",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "09b220a315ea0aebae2de835a3240d3690c962a3c801dd1c1cf6e6e2c84ede95",
+    "created": "2025-04-17T21:19:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:04.776000",
+    "pulse_id": "6801707ed48a87a19adaf031",
+    "pulse_name": "KeyPlug-Linked Server Exposes Fortinet Exploits & Webshell Activity Targeting a Major Japanese Company",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "2386baf4bf3a57ae7bca44c952855a98edf569da7b62bb0c8cbe414f1800d2b6",
+    "type": "FileHash-SHA256",
+    "created": "2025-04-17T21:19:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:04.905000",
+    "pulse_id": "6801707ed48a87a19adaf031",
+    "pulse_name": "KeyPlug-Linked Server Exposes Fortinet Exploits & Webshell Activity Targeting a Major Japanese Company",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "468b1799fbda3097b345a59bc1fec1cbc2a015efa473b043a69765a987ad54ed",
+    "type": "FileHash-SHA256",
+    "created": "2025-04-17T21:19:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:05.024000",
+    "pulse_id": "6801707ed48a87a19adaf031",
+    "pulse_name": "KeyPlug-Linked Server Exposes Fortinet Exploits & Webshell Activity Targeting a Major Japanese Company",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "4c1baa3abb774b4c649c87417acaa4396eba40e5028b43fade4c685a405cc3bf",
+    "created": "2025-04-17T21:19:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:05.128000",
+    "pulse_id": "6801707ed48a87a19adaf031",
+    "pulse_name": "KeyPlug-Linked Server Exposes Fortinet Exploits & Webshell Activity Targeting a Major Japanese Company",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "53a24e00ae671879ea3677a29ee1b10706aa5aa0dccd4697c3a94ee05df2ec45",
+    "created": "2025-04-17T21:19:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:05.243000",
+    "pulse_id": "6801707ed48a87a19adaf031",
+    "pulse_name": "KeyPlug-Linked Server Exposes Fortinet Exploits & Webshell Activity Targeting a Major Japanese Company",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "7146774db3c77e27b7eb48745aef56b50e0e7d87280fea03fa6890646af50d50",
+    "type": "FileHash-SHA256",
+    "created": "2025-04-17T21:19:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:05.350000",
+    "pulse_id": "6801707ed48a87a19adaf031",
+    "pulse_name": "KeyPlug-Linked Server Exposes Fortinet Exploits & Webshell Activity Targeting a Major Japanese Company",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "759246465014acaf3e75a575d6fe36720cfdbfe2eeac1893fe6d7a0474815552",
+    "type": "FileHash-SHA256",
+    "created": "2025-04-17T21:19:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:05.477000",
+    "pulse_id": "6801707ed48a87a19adaf031",
+    "pulse_name": "KeyPlug-Linked Server Exposes Fortinet Exploits & Webshell Activity Targeting a Major Japanese Company",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "827b5d8ed210a85bf06214e500a955f5ad72bd0afd90127de727eb7d5d70187e",
+    "created": "2025-04-17T21:19:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:05.588000",
+    "pulse_id": "6801707ed48a87a19adaf031",
+    "pulse_name": "KeyPlug-Linked Server Exposes Fortinet Exploits & Webshell Activity Targeting a Major Japanese Company",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "98261d1f92ae8f7a479bc5fc4d0a8d6a76c0d534e63e9edbc2d6257a9ba84b9d",
+    "created": "2025-04-17T21:19:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:05.706000",
+    "pulse_id": "6801707ed48a87a19adaf031",
+    "pulse_name": "KeyPlug-Linked Server Exposes Fortinet Exploits & Webshell Activity Targeting a Major Japanese Company",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "c1da6449513844277acc969aae853a502f177e92f98d37544f94a8987e6e2308",
+    "created": "2025-04-17T21:19:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:05.836000",
+    "pulse_id": "6801707ed48a87a19adaf031",
+    "pulse_name": "KeyPlug-Linked Server Exposes Fortinet Exploits & Webshell Activity Targeting a Major Japanese Company",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "c8d2b2ba5b6585584200ca46564b47db8048d748aefbdfe537bceaf27fb93ad7",
+    "created": "2025-04-17T21:19:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:05.954000",
+    "pulse_id": "6801707ed48a87a19adaf031",
+    "pulse_name": "KeyPlug-Linked Server Exposes Fortinet Exploits & Webshell Activity Targeting a Major Japanese Company",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "f21a7180405c52565fdc7a81b2fb5a494a3d936a25d1b30b9bd4b69a5e1de9a3",
+    "type": "FileHash-SHA256",
+    "created": "2025-04-17T21:19:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:06.077000",
+    "pulse_id": "6801707ed48a87a19adaf031",
+    "pulse_name": "KeyPlug-Linked Server Exposes Fortinet Exploits & Webshell Activity Targeting a Major Japanese Company",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "IPv4",
+    "indicator": "154.31.217.200",
+    "created": "2025-04-17T21:19:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:06.186000",
+    "pulse_id": "6801707ed48a87a19adaf031",
+    "pulse_name": "KeyPlug-Linked Server Exposes Fortinet Exploits & Webshell Activity Targeting a Major Japanese Company",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "combinechina.com",
+    "type": "domain",
+    "created": "2025-04-17T21:19:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:06.295000",
+    "pulse_id": "6801707ed48a87a19adaf031",
+    "pulse_name": "KeyPlug-Linked Server Exposes Fortinet Exploits & Webshell Activity Targeting a Major Japanese Company",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "91.212.166.21",
+    "type": "IPv4",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:06.409000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "91.212.166.86",
+    "type": "IPv4",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:06.540000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-MD5",
+    "indicator": "4c74caa9c0eeb2c7637da9bbde9535d7",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:06.650000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "a087e994db776a0c657e45d315851186",
+    "type": "FileHash-MD5",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:06.756000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-MD5",
+    "indicator": "a74ee50d2f91f77f010ecb154aa6b30b",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:06.870000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-MD5",
+    "indicator": "af2fe7b209912ec3a345fd8169fde338",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:06.987000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "61bff81cd5475552c73e0745d629b9265b84cb8c",
+    "type": "FileHash-SHA1",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:07.110000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA1",
+    "indicator": "90138ac54f4002803b7a88137da5ed2c5e46460c",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:07.229000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA1",
+    "indicator": "a10d8e59c8ea698349c073df06d509e958cd3333",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:07.346000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "c7207893a06a56f8f682e33fd32dc04700885317",
+    "type": "FileHash-SHA1",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:07.468000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "2d2bc95183f58a5e7fe9997b092120d6bfa18ed7ccb4f70b1af1b066ea16a1c3",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:07.576000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "40b75aa3c781f89d55ebff1784ff7419083210e01379bea4f5ef7e05a8609c38",
+    "type": "FileHash-SHA256",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:07.688000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "4db2fa8e019cf499b8e08e7d036b68926309905eb1d6bb3d5466e551ac8d052e",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:07.798000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "7d1de2f4ab7c35b53154dc490ad3e7ad19ff04cfaa10b1828beba1ffadbaf1ab",
+    "type": "FileHash-SHA256",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:07.916000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "7f2319f4e340b3877e34d5a06e09365f6356de5706e7a78e367934b8a58ed0e7",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:08.017000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "91811e7a269be50ad03632e66a4a6e6b17b5b9b6d043b5ac5da16d5021de8ddb",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:08.129000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "956934581dfdba96d69b77b14f6ab3228705862b2bd189cd98d6bfb9565d9570",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:08.249000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "99016e8ca8a72da67264019970ab831064ecc1f10591c90ea3a2e1db530188ee",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:08.369000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "9b93daf047b9010bf4e87ca71ae5aefae660820833c15877a9105215af0745cd",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:08.495000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "a2f0e6f9c5058085eac1c9e7a8b2060b38fd8dbdcba2981283a5e224f346e147",
+    "type": "FileHash-SHA256",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:08.609000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "d682d5afbbbd9689d5f30db8576b02962af3c733bd01b8f220ff344a9c00abfd",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:08.729000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "e55b6664c77a9f3a98b32f46a20c2e392dcc7f1717fb69447e4e4229c7b6985d",
+    "type": "FileHash-SHA256",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:08.846000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "e780d314ae6f9bf9d227df004a3c19ab7f3042e583d333f12022ef777ba9600a",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:08.956000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "IPv4",
+    "indicator": "193.143.1.139",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:09.068000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "IPv4",
+    "indicator": "193.143.1.205",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:09.185000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "IPv4",
+    "indicator": "91.212.166.146",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:09.288000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "91.212.166.16",
+    "type": "IPv4",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:09.398000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "URL",
+    "indicator": "http://193.143.1.139/Ujdu8jjooue/biweax.php",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:09.509000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "http://my-tasjeel-ae.com/droid.js",
+    "type": "URL",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:09.636000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "http://my-tasjeel-ae.com/getfr.js",
+    "type": "URL",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:09.750000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "http://my-tasjeel-ae.com/getid.js",
+    "type": "URL",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:09.856000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "URL",
+    "indicator": "http://whitelabeliq.com/",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:09.974000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "http://www-kodi.com/download.php",
+    "type": "URL",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:10.084000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "URL",
+    "indicator": "http://www-kodi.com/droid.js",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:10.189000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "http://www-kodi.com/getfr.js",
+    "type": "URL",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:10.298000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "URL",
+    "indicator": "http://www-kodi.com/getgr.js",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:10.409000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "URL",
+    "indicator": "http://www-kodi.com/getupd.js",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:10.528000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "URL",
+    "indicator": "http://www-wpx.net/assets/core.js",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:10.637000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "URL",
+    "indicator": "http://www-wpx.net/kodi-21.1-Omega-x64.msi",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:10.735000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "competitivewindscreens.com.au",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:10.846000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "education-ethologique.fr",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:10.958000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "embajadaguatemala.es",
+    "type": "domain",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:11.060000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "gr-playmarkets.com",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:11.156000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "iconichomestudios.com",
+    "type": "domain",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:11.268000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "lemasdessalettes.com",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:11.389000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "mikkiwaxbar.co.uk",
+    "type": "domain",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:11.506000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "my-tasjeel-ae.com",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:11.607000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "playstore-fr.com",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:11.711000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "playstore-spain.com",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:11.818000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "playstores-france.com",
+    "type": "domain",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:11.929000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "playstors-france.com",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:12.049000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "playstors-gr.com",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:12.167000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "spain-playmarket.com",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:12.278000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "spain-playstores.com",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:12.389000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "updatestore-spain.com",
+    "type": "domain",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:12.509000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "us-playmarket.com",
+    "created": "2025-04-18T08:11:59",
+    "description": "",
+    "last_updated": "2025-04-19T14:14:12.629000",
+    "pulse_id": "6802094e89f266c72f83bda4",
+    "pulse_name": "Proton66: Compromised WordPress Pages and Malware Campaigns",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "http://connect.klipfuzj.shop/firefire.png",
+    "type": "URL",
+    "created": "2025-04-21T17:31:35",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:31.646000",
+    "pulse_id": "680680f666b6192de781c7f1",
+    "pulse_name": "How Lumma Stealer sneaks into organizations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "URL",
+    "indicator": "http://seenga.com/page/confirm.html",
+    "created": "2025-04-21T17:31:35",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:31.683000",
+    "pulse_id": "680680f666b6192de781c7f1",
+    "pulse_name": "How Lumma Stealer sneaks into organizations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "downloadsbeta.com",
+    "type": "domain",
+    "created": "2025-04-21T17:31:35",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:31.710000",
+    "pulse_id": "680680f666b6192de781c7f1",
+    "pulse_name": "How Lumma Stealer sneaks into organizations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "drawzhotdog.shop",
+    "created": "2025-04-21T17:31:35",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:31.736000",
+    "pulse_id": "680680f666b6192de781c7f1",
+    "pulse_name": "How Lumma Stealer sneaks into organizations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "fragnantbui.shop",
+    "created": "2025-04-21T17:31:35",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:31.763000",
+    "pulse_id": "680680f666b6192de781c7f1",
+    "pulse_name": "How Lumma Stealer sneaks into organizations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "ghostreedmnu.shop",
+    "type": "domain",
+    "created": "2025-04-21T17:31:35",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:31.790000",
+    "pulse_id": "680680f666b6192de781c7f1",
+    "pulse_name": "How Lumma Stealer sneaks into organizations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "gutterydhowi.shop",
+    "type": "domain",
+    "created": "2025-04-21T17:31:35",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:31.817000",
+    "pulse_id": "680680f666b6192de781c7f1",
+    "pulse_name": "How Lumma Stealer sneaks into organizations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "offensivedzvju.shop",
+    "created": "2025-04-21T17:31:35",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:31.844000",
+    "pulse_id": "680680f666b6192de781c7f1",
+    "pulse_name": "How Lumma Stealer sneaks into organizations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "reinforcenh.shop",
+    "created": "2025-04-21T17:31:35",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:31.870000",
+    "pulse_id": "680680f666b6192de781c7f1",
+    "pulse_name": "How Lumma Stealer sneaks into organizations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "seenga.com",
+    "created": "2025-04-21T17:31:35",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:31.910000",
+    "pulse_id": "680680f666b6192de781c7f1",
+    "pulse_name": "How Lumma Stealer sneaks into organizations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "serviceverifcaptcho.com",
+    "created": "2025-04-21T17:31:35",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:31.937000",
+    "pulse_id": "680680f666b6192de781c7f1",
+    "pulse_name": "How Lumma Stealer sneaks into organizations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "stogeneratmns.shop",
+    "type": "domain",
+    "created": "2025-04-21T17:31:35",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:31.963000",
+    "pulse_id": "680680f666b6192de781c7f1",
+    "pulse_name": "How Lumma Stealer sneaks into organizations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "streamingsplays.com",
+    "created": "2025-04-21T17:31:35",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:31.990000",
+    "pulse_id": "680680f666b6192de781c7f1",
+    "pulse_name": "How Lumma Stealer sneaks into organizations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "vozmeatillu.shop",
+    "created": "2025-04-21T17:31:35",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.017000",
+    "pulse_id": "680680f666b6192de781c7f1",
+    "pulse_name": "How Lumma Stealer sneaks into organizations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "hostname",
+    "indicator": "connect.klipfuzj.shop",
+    "created": "2025-04-21T17:31:35",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.043000",
+    "pulse_id": "680680f666b6192de781c7f1",
+    "pulse_name": "How Lumma Stealer sneaks into organizations",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "470a328ad3705d0c6866a48912a3f718",
+    "type": "FileHash-MD5",
+    "created": "2025-04-21T12:43:28",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.071000",
+    "pulse_id": "68063d6f5beb7958a54e2952",
+    "pulse_name": "FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-MD5",
+    "indicator": "a889b34f7b2b59a2eaa467604f756ec5",
+    "created": "2025-04-21T12:43:28",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.097000",
+    "pulse_id": "68063d6f5beb7958a54e2952",
+    "pulse_name": "FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "be5af780a67635d1eae32bc959450aff",
+    "type": "FileHash-MD5",
+    "created": "2025-04-21T12:43:28",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.124000",
+    "pulse_id": "68063d6f5beb7958a54e2952",
+    "pulse_name": "FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "c909ab654b9474aceb2addb87739b06c",
+    "type": "FileHash-MD5",
+    "created": "2025-04-21T12:43:28",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.152000",
+    "pulse_id": "68063d6f5beb7958a54e2952",
+    "pulse_name": "FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "f5c1fbaefc484ec108504b79da00f51d",
+    "type": "FileHash-MD5",
+    "created": "2025-04-21T12:43:28",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.178000",
+    "pulse_id": "68063d6f5beb7958a54e2952",
+    "pulse_name": "FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "fd471239a6c4314c4f5f2ea7cc8e5cd5",
+    "type": "FileHash-MD5",
+    "created": "2025-04-21T12:43:28",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.205000",
+    "pulse_id": "68063d6f5beb7958a54e2952",
+    "pulse_name": "FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "3610bdbdf7e1101e9f0c2460c991c8352bc16f66",
+    "type": "FileHash-SHA1",
+    "created": "2025-04-21T12:43:28",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.231000",
+    "pulse_id": "68063d6f5beb7958a54e2952",
+    "pulse_name": "FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "4f6c94ca437039a6d1a23f78ab16d39e027f8f25",
+    "type": "FileHash-SHA1",
+    "created": "2025-04-21T12:43:28",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.264000",
+    "pulse_id": "68063d6f5beb7958a54e2952",
+    "pulse_name": "FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA1",
+    "indicator": "57a544e97bdb613411b1d1d0b25b563c9d63fce4",
+    "created": "2025-04-21T12:43:28",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.291000",
+    "pulse_id": "68063d6f5beb7958a54e2952",
+    "pulse_name": "FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "972cbe6b7fd73770a0503959dae51166466f8a1d",
+    "type": "FileHash-SHA1",
+    "created": "2025-04-21T12:43:28",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.317000",
+    "pulse_id": "68063d6f5beb7958a54e2952",
+    "pulse_name": "FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "e41e9864195f4b0a1718ca374c85f2a000d5232a",
+    "type": "FileHash-SHA1",
+    "created": "2025-04-21T12:43:28",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.343000",
+    "pulse_id": "68063d6f5beb7958a54e2952",
+    "pulse_name": "FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA1",
+    "indicator": "fad7e283242ce0a4ab7de14a752be3a81d6b7b64",
+    "created": "2025-04-21T12:43:28",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.371000",
+    "pulse_id": "68063d6f5beb7958a54e2952",
+    "pulse_name": "FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "100cbf5578cfd03950c8606c6131a85635a8278696d3d64ecb629fa09af449e9",
+    "created": "2025-04-21T12:43:28",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.397000",
+    "pulse_id": "68063d6f5beb7958a54e2952",
+    "pulse_name": "FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "3d2cbef9be0c48c61a18f0e1dc78501ddabfd7a7663b21c4fcc9c39d48708e91",
+    "created": "2025-04-21T12:43:28",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.423000",
+    "pulse_id": "68063d6f5beb7958a54e2952",
+    "pulse_name": "FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "44b7eebf7a26d466f9c7ad4ddb058503f7066aded180ab6d5162197c47780293",
+    "type": "FileHash-SHA256",
+    "created": "2025-04-21T12:43:28",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.450000",
+    "pulse_id": "68063d6f5beb7958a54e2952",
+    "pulse_name": "FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "8e209e4f7f10ca6def27eabf31ecc0dbb809643feaecb8e52c2f194daa0511aa",
+    "type": "FileHash-SHA256",
+    "created": "2025-04-21T12:43:28",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.476000",
+    "pulse_id": "68063d6f5beb7958a54e2952",
+    "pulse_name": "FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "indicator": "dc5370e1ab5b26ff04b9e34c6dbb37cf6c600b7ac9a394fd519b547b37a6d2d5",
+    "created": "2025-04-21T12:43:28",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.503000",
+    "pulse_id": "68063d6f5beb7958a54e2952",
+    "pulse_name": "FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "dec35a94e4986765aa69635d02f09f58bfc8756b8fd5e1e9183b26eef0118667",
+    "type": "FileHash-SHA256",
+    "created": "2025-04-21T12:43:28",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.530000",
+    "pulse_id": "68063d6f5beb7958a54e2952",
+    "pulse_name": "FOG Ransomware Spread by Cybercriminals Claiming Ties to DOGE",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "CVE",
+    "indicator": "CVE-2025-21204",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.556000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "aidforhealthcare.org",
+    "type": "domain",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.583000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "americansubsidy.com",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.611000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "assistanceadvocate.org",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.637000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "assistanceadvocates.org",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.664000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "communitycareaid.org",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.690000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "grabsubsidy.com",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.717000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "healthaidhub.org",
+    "type": "domain",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.744000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "healthaidnetwork.org",
+    "type": "domain",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.772000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "improveourcredit.com",
+    "type": "domain",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.799000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "justhealthbenefits.com",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.826000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "local-subsidy.com",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.853000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "localaid.co",
+    "type": "domain",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.879000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "nationaid.org",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.906000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "nationwidesubsidy.com",
+    "type": "domain",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.933000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "subsidyacrossnation.com",
+    "type": "domain",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.960000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "subsidyaid.com",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:32.986000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "subsidysupport.org",
+    "type": "domain",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.012000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "subsidysupportnetwork.org",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.039000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "timeforacahelp.com",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.066000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "us-debtassistance.org",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.093000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "wellnesssubsidyhub.org",
+    "created": "2025-04-18T22:01:02",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.119000",
+    "pulse_id": "6802cb9dcd152b0f855adc5b",
+    "pulse_name": "The \"free money\" trap: How scammers exploit financial anxiety",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "hostname",
+    "indicator": "eec086f678a65400d3fa7ba9c787d976.ip-ddns.com",
+    "created": "2025-04-21T11:49:36",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.146000",
+    "pulse_id": "680630cf7d432f84fd61b71b",
+    "pulse_name": "It's 2025... so why are obviously malicious advertising URLs still going strong?",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "CVE",
+    "indicator": "CVE-2024-6473",
+    "created": "2025-04-18T21:45:38",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.172000",
+    "pulse_id": "6802c8019d40fa74671e9c6c",
+    "pulse_name": "Two sides of the same coin",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "CVE-2025-2783",
+    "type": "CVE",
+    "created": "2025-04-18T21:45:38",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.200000",
+    "pulse_id": "6802c8019d40fa74671e9c6c",
+    "pulse_name": "Two sides of the same coin",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-MD5",
+    "indicator": "9826fbb409f65dc6b068b085551bf4f3",
+    "created": "2025-04-18T21:45:38",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.227000",
+    "pulse_id": "6802c8019d40fa74671e9c6c",
+    "pulse_name": "Two sides of the same coin",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-MD5",
+    "indicator": "a1ba8e681baabf7d4b54840e6d066ff6",
+    "created": "2025-04-18T21:45:38",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.254000",
+    "pulse_id": "6802c8019d40fa74671e9c6c",
+    "pulse_name": "Two sides of the same coin",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "https://infosecteam.info/other.php?id=jdcz7vyqdoadr31gejeivo6g30cx7kgu",
+    "type": "URL",
+    "created": "2025-04-18T21:45:38",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.280000",
+    "pulse_id": "6802c8019d40fa74671e9c6c",
+    "pulse_name": "Two sides of the same coin",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "URL",
+    "indicator": "https://srv480138.hstgr.cloud/uploads/scan_3824.pdf'",
+    "created": "2025-04-18T21:45:38",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.307000",
+    "pulse_id": "6802c8019d40fa74671e9c6c",
+    "pulse_name": "Two sides of the same coin",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "URL",
+    "indicator": "https://srv510786.hstgr.cloud/ordinary.php?id=9826fbb409f65dc6b068b085551bf4f3",
+    "created": "2025-04-18T21:45:38",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.334000",
+    "pulse_id": "6802c8019d40fa74671e9c6c",
+    "pulse_name": "Two sides of the same coin",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA1",
+    "indicator": "0af7141606bef53a9989d2963e9f4d98d8418318",
+    "created": "2025-04-18T21:45:38",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.361000",
+    "pulse_id": "6802c8019d40fa74671e9c6c",
+    "pulse_name": "Two sides of the same coin",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "27907791c1c6900bd680b6273887e9ee066e78f4",
+    "type": "FileHash-SHA1",
+    "created": "2025-04-18T21:45:38",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.390000",
+    "pulse_id": "6802c8019d40fa74671e9c6c",
+    "pulse_name": "Two sides of the same coin",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "36d0f941226bb956e9629abbe81d8630777f64c4",
+    "type": "FileHash-SHA1",
+    "created": "2025-04-18T21:45:38",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.416000",
+    "pulse_id": "6802c8019d40fa74671e9c6c",
+    "pulse_name": "Two sides of the same coin",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA1",
+    "indicator": "86cc6299d30761de322a1ecc1671711e2a80e964",
+    "created": "2025-04-18T21:45:38",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.443000",
+    "pulse_id": "6802c8019d40fa74671e9c6c",
+    "pulse_name": "Two sides of the same coin",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "c214d975f142d7ca7011f342f2a1fe009b9bffab",
+    "type": "FileHash-SHA1",
+    "created": "2025-04-18T21:45:38",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.469000",
+    "pulse_id": "6802c8019d40fa74671e9c6c",
+    "pulse_name": "Two sides of the same coin",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "FileHash-SHA1",
+    "indicator": "e75fa66124df88ffb6971d10770617450e6e1234",
+    "created": "2025-04-18T21:45:38",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.497000",
+    "pulse_id": "6802c8019d40fa74671e9c6c",
+    "pulse_name": "Two sides of the same coin",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "infosecteam.info",
+    "created": "2025-04-18T21:45:38",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.525000",
+    "pulse_id": "6802c8019d40fa74671e9c6c",
+    "pulse_name": "Two sides of the same coin",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "domain",
+    "indicator": "mil-by.info",
+    "created": "2025-04-18T21:45:38",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.552000",
+    "pulse_id": "6802c8019d40fa74671e9c6c",
+    "pulse_name": "Two sides of the same coin",
+    "source": "AlienVault OTX"
+  },
+  {
+    "indicator": "srv480138.hstgr.cloud",
+    "type": "hostname",
+    "created": "2025-04-18T21:45:38",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.578000",
+    "pulse_id": "6802c8019d40fa74671e9c6c",
+    "pulse_name": "Two sides of the same coin",
+    "source": "AlienVault OTX"
+  },
+  {
+    "type": "hostname",
+    "indicator": "srv510786.hstgr.cloud",
+    "created": "2025-04-18T21:45:38",
+    "description": "",
+    "last_updated": "2025-04-22T05:29:33.605000",
+    "pulse_id": "6802c8019d40fa74671e9c6c",
+    "pulse_name": "Two sides of the same coin",
+    "source": "AlienVault OTX"
+  }
+]
